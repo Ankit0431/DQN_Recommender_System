@@ -2,4 +2,3 @@ reviews_Electronics_5.json.gz
 df_full.pkl
 user_to_idx.pkl
 item_to_idx.pkl
-training.ipynb
