@@ -46,7 +46,7 @@ Built with PyTorch, Pandas, and NumPy, it’s a robust blend of RL and deep lear
 ### 🛠 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/dqn-recommender-system.git
+   git clone https://github.com/Ankit0431/dqn-recommender-system.git
    cd dqn-recommender-system
    ```  
 
